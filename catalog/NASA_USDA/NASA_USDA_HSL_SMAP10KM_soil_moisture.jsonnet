@@ -147,7 +147,17 @@ local self_ee_catalog_url = ee_const.ee_catalog_url + basename;
     },
   },
   'sci:citation': |||
-    **Mladenova, I.E., Bolten, J.D., Crow, W., Sazib, N. and Reynolds, C., 2020.**
+   **Sazib, N., Bolten J.D., and I. E. Mladenova. 2021.**
+   Leveraging NASA Soil Moisture Active Passive for Assessing Fire Susceptibility and
+   Potential Impacts Over Australia and California. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 
+   15: 779-787.
+   [doi: 10.1109/jstars.2021.3136756] 
+   [Article] (https://ieeexplore.ieee.org/document/9656646)
+   |||,
+  'sci:publications': [
+    {
+      citation: ||| 
+   **Mladenova, I.E., Bolten, J.D., Crow, W., Sazib, N. and Reynolds, C., 2020.**
     Agricultural drought monitoring via the assimilation of SMAP soil moisture retrievals into a
     global soil water balance model. *Front. Big Data*,
     3(10).
